@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0163c039-0e92-47b7-9cfb-cb8999cd61d3" name="Changes" comment="CodeWars Projekt erstellt">
-      <change afterPath="$PROJECT_DIR$/src/Vowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VowelsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringToNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringToNumberTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodeWars.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWars.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/EvenOrOddTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EvenOrOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VowelsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VowelsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,25 +39,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -75,8 +74,8 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.EvenOrOddTest">
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
+    <configuration name="StringToNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringToNumber" />
       <module name="CodeWars" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +99,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VowelsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="StringToNumberTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="CodeWars" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="VowelsTest" />
+      <option name="MAIN_CLASS_NAME" value="StringToNumberTest" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringToNumberTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CodeWars" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StringToNumberTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -114,9 +125,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.EvenOrOddTest" />
+        <item itemvalue="TestNG.StringToNumberTest" />
+        <item itemvalue="Application.StringToNumber" />
+        <item itemvalue="TestNG.StringToNumberTest.test1" />
         <item itemvalue="JUnit.VowelsTest" />
-        <item itemvalue="TestNG.VowelsTest" />
-        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +145,7 @@
       <workItem from="1678130436703" duration="6000" />
       <workItem from="1678204270714" duration="3000" />
       <workItem from="1678371294904" duration="659000" />
+      <workItem from="1678559702382" duration="4918000" />
     </task>
     <task id="LOCAL-00001" summary="CodeWars Projekt erstellt">
       <created>1677695988418</created>
