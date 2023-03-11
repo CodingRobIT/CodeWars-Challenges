@@ -17,6 +17,10 @@ public class StringToNumber {
         int num = Integer.parseInt(str);        //ist da shier dann die variable mit dem Namen "num" ?
         return num;
     }
+
+    public static int stringToNumber2(String str) {
+        return Integer.parseInt(str);   //Musterlösung in CodeWars so wollte ich es auch haben :(
+    }
 }
 
 
