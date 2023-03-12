@@ -34,6 +34,21 @@ public class BoolToWord {
         if(b) return "Yes";
         else return "No";
     }
+    public static String boolToWord4(boolean b) // Auch auf CodeWars gefunden
+    {
+
+        if(b == true)
+        {
+            return "Yes";
+        }
+
+        if(b == false)
+        {
+            return "No";
+        }
+
+        return "no value provided";
+    }
 
 
 }
