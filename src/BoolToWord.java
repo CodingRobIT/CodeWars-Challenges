@@ -30,5 +30,10 @@ public class BoolToWord {
         return b ? "Yes" : "No";
     }
 
+    public static String boolToWord3(boolean b) { //Auch auf CodeWars gefunden
+        if(b) return "Yes";
+        else return "No";
+    }
+
 
 }
