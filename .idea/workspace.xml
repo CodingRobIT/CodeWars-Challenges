@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0163c039-0e92-47b7-9cfb-cb8999cd61d3" name="Changes" comment="N/A">
-      <change beforePath="$PROJECT_DIR$/src/BoolToWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BoolToWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +29,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="2MQNUxIlY97pQNghTno1awpdsfY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -140,6 +143,7 @@
       <workItem from="1678204270714" duration="3000" />
       <workItem from="1678371294904" duration="659000" />
       <workItem from="1678559702382" duration="8917000" />
+      <workItem from="1694630832106" duration="33000" />
     </task>
     <task id="LOCAL-00001" summary="CodeWars Projekt erstellt">
       <created>1677695988418</created>
