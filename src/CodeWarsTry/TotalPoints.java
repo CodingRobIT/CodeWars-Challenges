@@ -1,11 +1,8 @@
 package CodeWarsTry;
-
-// This class exists only for testing various code challenges.
-// Because of this, it is mostly half or not complete or without function.
-public class TryTheCodes {
+// TODO train that Code
+public class TotalPoints {
 
     public static int points(String[] games) {
-
         int totalPoints = 0;
 
         for (String result : games) {
@@ -18,18 +15,17 @@ public class TryTheCodes {
             } else if (ourScore == opponentScore) {
                 totalPoints += 1; // Tie
             }
+            // Loss condition (ourScore < opponentScore) doesn't need explicit handling, as it adds 0 points.
         }
 
         return totalPoints;
     }
 
     public static void main(String[] args) {
-        String[] matchResults = {"3:1", "2:2"};
+        String[] matchResults = {"3:1", "2:2", "0:1", "1:0", "2:1", "1:2", "0:0", "3:3", "2:0", "0:2"};
         int totalPoints = points(matchResults);
-        System.out.println("Total points: " + totalPoints);
-
+        System.out.println("Total points: " + totalPoints); // Output: Total points: 15
+                                                            // With "3:1", "2:2", "0:1", "1:0", "2:1", "1:2", "0:0", "3:3", "2:0", "0:2"
     }
 
 }
-
-
