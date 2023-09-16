@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0163c039-0e92-47b7-9cfb-cb8999cd61d3" name="Changes" comment="added Alternativ Codes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWarsTry/TotalPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodeWarsTry/TotalPoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWarsTry/TryTheCodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodeWarsTry/TryTheCodes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TotalPoints">
+  <component name="RunManager" selected="Application.TryTheCodes">
     <configuration name="BoolToWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BoolToWord" />
       <module name="CodeWars" />
@@ -136,8 +136,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TotalPoints" />
         <item itemvalue="Application.TryTheCodes" />
+        <item itemvalue="Application.TotalPoints" />
         <item itemvalue="Application.ConvertNumerToString" />
         <item itemvalue="JUnit.EvenOrOddTest.even_or_odd" />
         <item itemvalue="Application.BoolToWord" />
@@ -160,7 +160,7 @@
       <workItem from="1678559702382" duration="8917000" />
       <workItem from="1694630832106" duration="33000" />
       <workItem from="1694803128257" duration="260000" />
-      <workItem from="1694848062066" duration="5278000" />
+      <workItem from="1694848062066" duration="5984000" />
     </task>
     <task id="LOCAL-00001" summary="CodeWars Projekt erstellt">
       <created>1677695988418</created>
@@ -252,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694888210814</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="added Alternativ Codes">
+      <option name="closed" value="true" />
+      <created>1694888260134</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1694888260134</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

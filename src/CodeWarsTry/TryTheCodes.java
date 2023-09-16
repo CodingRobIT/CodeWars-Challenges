@@ -4,29 +4,29 @@ package CodeWarsTry;
 // Because of this, it is mostly half or not complete or without function.
 public class TryTheCodes {
 
-    public static int points(String[] games) {
+    public static int GetSum(int a, int b) {
 
-        int totalPoints = 0;
-
-        for (String result : games) {
-            String[] scores = result.split(":");
-            int ourScore = Integer.parseInt(scores[0]);
-            int opponentScore = Integer.parseInt(scores[1]);
-
-            if (ourScore > opponentScore) {
-                totalPoints += 3; // Win
-            } else if (ourScore == opponentScore) {
-                totalPoints += 1; // Tie
+        if (a == b) {
+            return a;
+        } else if (a < b) {
+            int sum = 0;
+            for (int i = a; i <= b; i++) {
+                sum += i;
             }
+            return sum;
+        } else {
+            int sum = 0;
+            for (int i = b; i <= a; i++) {
+                sum += i;
+            }
+            return sum;
         }
-
-        return totalPoints;
     }
 
     public static void main(String[] args) {
-        String[] matchResults = {"3:1", "2:2"};
-        int totalPoints = points(matchResults);
-        System.out.println("Total points: " + totalPoints);
+
+        System.out.println(GetSum(-1,2)); // should be 2
+        System.out.println(GetSum(-1,3)); // Should be 5
 
     }
 
