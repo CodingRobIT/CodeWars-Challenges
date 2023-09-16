@@ -1,16 +1,13 @@
 package CodeWarsTry;
 
-// This class exists only for testing various code challenges.
-// Because of this, it is mostly half or not complete or without function.
-public class TryTheCodes {
+public class FindAverage {
 
-    // TODO Train that Code
     public static double findAverage(int[] array) {  // Class Name in CodeWars should be find_average because the test are search for that Class not findAvarage
         if (array == null) {
             return 0; // Return 0 for a null array
         }
 
-        double sum = 0;
+        double sum = 0;  // when here is int you can't get 3.5 or Something like that and CodeWars test will Fail
         for (int number : array) {
             sum += number;
         }
@@ -28,7 +25,4 @@ public class TryTheCodes {
         System.out.println("Average 1: " + average1); // Output: Average 1: 3
         System.out.println("Average 2: " + average2); // Output: Average 2: 0
     }
-
 }
-
-
