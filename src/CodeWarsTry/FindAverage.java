@@ -1,5 +1,5 @@
 package CodeWarsTry;
-
+// Todo Train that Code
 public class FindAverage {
 
     public static double findAverage(int[] array) {  // Class Name in CodeWars should be find_average because the test are search for that Class not findAvarage
@@ -26,3 +26,25 @@ public class FindAverage {
         System.out.println("Average 2: " + average2); // Output: Average 2: 0
     }
 }
+
+// This one is cool
+
+//import java.util.Arrays;
+//public class Kata{
+//    public static double find_average(int[] array){
+//        return Arrays.stream(array).average().orElse(0);
+//    }
+//}
+
+// Or this one
+
+//import java.util.stream.IntStream;
+//
+//public class Kata{
+//
+//    public static double find_average(int[] array){
+//        return IntStream.of(array).average().getAsDouble();
+//    }
+//}
+
+
