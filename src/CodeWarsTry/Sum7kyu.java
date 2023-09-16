@@ -46,3 +46,23 @@ public class Sum7kyu {
 //        (-1, 2) --> 2 (-1 + 0 + 1 + 2 = 2)
 
 // Other Codes on CodeWars
+
+// This one is rly rly nice
+
+//public class Sum
+//{
+//    public int GetSum(int a, int b)
+//    {
+//        return (a + b) * (Math.abs(a - b) + 1) / 2;
+//    }
+//}
+
+// This oen wors with IntStream also nice
+
+//import java.util.stream.IntStream;
+//
+//public class Sum {
+//    public int GetSum(int a, int b) {
+//        return IntStream.range(Math.min(a, b), Math.max(a, b) + 1).sum();
+//    }
+//}

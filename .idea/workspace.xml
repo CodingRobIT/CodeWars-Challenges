@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0163c039-0e92-47b7-9cfb-cb8999cd61d3" name="Changes" comment="added Alternativ Codes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodeWarsTry/TryTheCodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodeWarsTry/TryTheCodes.java" afterDir="false" />
+    <list default="true" id="0163c039-0e92-47b7-9cfb-cb8999cd61d3" name="Changes" comment="added Beginner Series #3 Sum of Numbers Sum7kyu.java">
+      <change beforePath="$PROJECT_DIR$/src/CodeWarsTry/Sum7kyu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodeWarsTry/Sum7kyu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +159,7 @@
       <workItem from="1678559702382" duration="8917000" />
       <workItem from="1694630832106" duration="33000" />
       <workItem from="1694803128257" duration="260000" />
-      <workItem from="1694848062066" duration="5984000" />
+      <workItem from="1694848062066" duration="6298000" />
     </task>
     <task id="LOCAL-00001" summary="CodeWars Projekt erstellt">
       <created>1677695988418</created>
@@ -260,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694888260134</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="added Beginner Series #3 Sum of Numbers Sum7kyu.java">
+      <option name="closed" value="true" />
+      <created>1694889193846</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1694889193846</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,6 +291,7 @@
     <MESSAGE value="N/A" />
     <MESSAGE value="added CodeWars Total amount of points &quot;TotalPoints.java&quot;" />
     <MESSAGE value="added Alternativ Codes" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Alternativ Codes" />
+    <MESSAGE value="added Beginner Series #3 Sum of Numbers Sum7kyu.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Beginner Series #3 Sum of Numbers Sum7kyu.java" />
   </component>
 </project>
