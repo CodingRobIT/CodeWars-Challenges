@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0163c039-0e92-47b7-9cfb-cb8999cd61d3" name="Changes" comment="added CodeWars Total amount of points &quot;TotalPoints.java&quot;" />
+    <list default="true" id="0163c039-0e92-47b7-9cfb-cb8999cd61d3" name="Changes" comment="added Alternativ Codes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeWarsTry/TotalPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodeWarsTry/TotalPoints.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,7 +160,7 @@
       <workItem from="1678559702382" duration="8917000" />
       <workItem from="1694630832106" duration="33000" />
       <workItem from="1694803128257" duration="260000" />
-      <workItem from="1694848062066" duration="4903000" />
+      <workItem from="1694848062066" duration="5278000" />
     </task>
     <task id="LOCAL-00001" summary="CodeWars Projekt erstellt">
       <created>1677695988418</created>
@@ -241,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694887744248</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added Alternativ Codes">
+      <option name="closed" value="true" />
+      <created>1694888210814</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1694888210814</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,6 +275,7 @@
     <MESSAGE value="added Test Class" />
     <MESSAGE value="N/A" />
     <MESSAGE value="added CodeWars Total amount of points &quot;TotalPoints.java&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="added CodeWars Total amount of points &quot;TotalPoints.java&quot;" />
+    <MESSAGE value="added Alternativ Codes" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Alternativ Codes" />
   </component>
 </project>
