@@ -156,7 +156,7 @@
       <workItem from="1678559702382" duration="8917000" />
       <workItem from="1694630832106" duration="33000" />
       <workItem from="1694803128257" duration="260000" />
-      <workItem from="1694848062066" duration="608000" />
+      <workItem from="1694848062066" duration="1515000" />
     </task>
     <task id="LOCAL-00001" summary="CodeWars Projekt erstellt">
       <created>1677695988418</created>
@@ -216,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694848261759</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added Test Class">
+      <option name="closed" value="true" />
+      <created>1694882155885</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1694882155885</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
