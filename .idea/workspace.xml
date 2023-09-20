@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0163c039-0e92-47b7-9cfb-cb8999cd61d3" name="Changes" comment="added CodeWars Keep Hydrated" />
+    <list default="true" id="0163c039-0e92-47b7-9cfb-cb8999cd61d3" name="Changes" comment="unknown workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,7 +169,7 @@
       <workItem from="1694977046829" duration="641000" />
       <workItem from="1695119600123" duration="347000" />
       <workItem from="1695231169977" duration="1624000" />
-      <workItem from="1695235032737" duration="633000" />
+      <workItem from="1695235032737" duration="1015000" />
     </task>
     <task id="LOCAL-00001" summary="CodeWars Projekt erstellt">
       <created>1677695988418</created>
@@ -309,7 +309,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695235629235</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="unknown workspace.xml">
+      <option name="closed" value="true" />
+      <created>1695235735210</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1695235735210</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,6 +346,7 @@
     <MESSAGE value="added CodeWars Calculate avarage FindAvarage.Java" />
     <MESSAGE value="added alternative code" />
     <MESSAGE value="added CodeWars Keep Hydrated" />
-    <option name="LAST_COMMIT_MESSAGE" value="added CodeWars Keep Hydrated" />
+    <MESSAGE value="unknown workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="unknown workspace.xml" />
   </component>
 </project>
