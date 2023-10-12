@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0163c039-0e92-47b7-9cfb-cb8999cd61d3" name="Changes" comment="edit git ignore">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="0163c039-0e92-47b7-9cfb-cb8999cd61d3" name="Changes" comment="edit git.ignore">
+      <change afterPath="$PROJECT_DIR$/src/CodeWarsTry/OppositeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/robin/Coding/IntelliJ/Dokubert/CodeWars-Challenges/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/robin/Coding/IntelliJ/hactoberfest&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -77,7 +78,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.KeepHydrated">
+  <component name="RunManager" selected="Application.OppositeNumber">
     <configuration name="ConvertNumerToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeWarsTry.ConvertNumerToString" />
       <module name="CodeWars" />
@@ -93,6 +94,19 @@
     </configuration>
     <configuration name="KeepHydrated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeWarsTry.KeepHydrated" />
+      <module name="CodeWars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodeWarsTry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OppositeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWarsTry.OppositeNumber" />
       <module name="CodeWars" />
       <extension name="coverage">
         <pattern>
@@ -130,23 +144,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenOrOddTest.even_or_odd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeWars" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EvenOrOddTest" />
-      <option name="METHOD_NAME" value="even_or_odd" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OppositeNumber" />
         <item itemvalue="Application.KeepHydrated" />
         <item itemvalue="Application.TryTheCodes" />
         <item itemvalue="Application.TotalPoints" />
         <item itemvalue="Application.ConvertNumerToString" />
-        <item itemvalue="JUnit.EvenOrOddTest.even_or_odd" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +175,12 @@
       <workItem from="1694977046829" duration="641000" />
       <workItem from="1695119600123" duration="347000" />
       <workItem from="1695231169977" duration="1624000" />
-      <workItem from="1695235032737" duration="1714000" />
+      <workItem from="1695235032737" duration="2894000" />
+      <workItem from="1696353972363" duration="1240000" />
+      <workItem from="1696530191514" duration="2338000" />
+      <workItem from="1696679867042" duration="1795000" />
+      <workItem from="1696698062601" duration="1927000" />
+      <workItem from="1697133199462" duration="1371000" />
     </task>
     <task id="LOCAL-00001" summary="CodeWars Projekt erstellt">
       <created>1677695988418</created>
@@ -343,7 +352,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695236965565</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="edit git.ignore">
+      <option name="closed" value="true" />
+      <created>1695237105615</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1695237105615</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -374,6 +391,7 @@
     <MESSAGE value="added CodeWars Keep Hydrated" />
     <MESSAGE value="unknown workspace.xml" />
     <MESSAGE value="edit git ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit git ignore" />
+    <MESSAGE value="edit git.ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit git.ignore" />
   </component>
 </project>
